@@ -1,0 +1,5 @@
+./educa/.env
+*.pyc
+.env
+/env/
+/data/
